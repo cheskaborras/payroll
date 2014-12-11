@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace capstone
+namespace LoginTesting_with_MySql_Dbase
 {
     static class Program
     {
@@ -15,7 +15,7 @@ namespace capstone
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmAccount());
         }
     }
 }

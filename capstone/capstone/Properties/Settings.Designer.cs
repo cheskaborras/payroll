@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace capstone.Properties
+namespace LoginTesting_with_MySql_Dbase.Properties
 {
 
 

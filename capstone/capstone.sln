@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "capstone", "capstone\capstone.csproj", "{98BFA548-FE60-41A6-8EC2-B7129EA865E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capstone", "LoginTesting with MySql Dbase\Capstone.csproj", "{E0232BCE-6715-4998-89AA-3E8783FD951B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{98BFA548-FE60-41A6-8EC2-B7129EA865E3}.Debug|x86.ActiveCfg = Debug|x86
-		{98BFA548-FE60-41A6-8EC2-B7129EA865E3}.Debug|x86.Build.0 = Debug|x86
-		{98BFA548-FE60-41A6-8EC2-B7129EA865E3}.Release|x86.ActiveCfg = Release|x86
-		{98BFA548-FE60-41A6-8EC2-B7129EA865E3}.Release|x86.Build.0 = Release|x86
+		{E0232BCE-6715-4998-89AA-3E8783FD951B}.Debug|x86.ActiveCfg = Debug|x86
+		{E0232BCE-6715-4998-89AA-3E8783FD951B}.Debug|x86.Build.0 = Debug|x86
+		{E0232BCE-6715-4998-89AA-3E8783FD951B}.Release|x86.ActiveCfg = Release|x86
+		{E0232BCE-6715-4998-89AA-3E8783FD951B}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

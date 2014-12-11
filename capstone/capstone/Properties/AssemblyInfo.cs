@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("capstone")]
+[assembly: AssemblyTitle("LoginTesting with MySql Dbase")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("capstone")]
+[assembly: AssemblyProduct("LoginTesting with MySql Dbase")]
 [assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a2f0cee9-7cec-4399-bc00-2f88a4ce4a62")]
+[assembly: Guid("925146c2-ca99-4a08-a5ed-9e92e73acb5b")]
 
 // Version information for an assembly consists of the following four values:
 //
